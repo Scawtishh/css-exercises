@@ -1,0 +1,19 @@
+.oddnumber {
+    background-color: rgb(248, 175, 187);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#divid1 {
+    font-size: 36px;
+    color: blue;
+}
+
+#divid2 {
+    font-style: bold;
+    font-size: 24px;
+    background-color: rgb(150, 238, 150);
+}
