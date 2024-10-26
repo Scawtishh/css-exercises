@@ -1,0 +1,15 @@
+.button{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    border: 2px solid grey;
+
+}
+
+.button.uno {
+    background-color: black;
+    color: White;
+
+}
+.button.dos {
+    background-color: yellow;
+}
